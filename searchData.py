@@ -24,10 +24,10 @@ def tryreTweet(value1):
   return retweet
 
 #consumer key, consumer secret, access token, access secret.
-consumer_key= 'EuW9HwrY1ublqrgmDWI1emzj4'
-consumer_secret= 'D5YmwcZwZXwTBTNjXkCieRnZUAGOb67KTN372EMqWOpn29Jnu1'
-access_token= '2563114477-09WupIuie5i7Agz74UHN9vhvgSzuT0Xytp4OpeA'
-access_token_secret= 'B7bt0XiEyzRiNI4AU5v3o8rlwzLeAF5QaAlIT4ezy5jds'
+consumer_key= '<consumer_key>'
+consumer_secret= '<consumer_secret>'
+access_token= '<access_token>'
+access_token_secret= '<access_token_secret>'
 
 keywords = ["Canada","University","Dalhousie University","Halifax","Canada Education"]
 
