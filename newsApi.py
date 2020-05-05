@@ -9,7 +9,7 @@ def cleanData(inputString):
     return inputString
 
 #key obtained from newsAPI account
-key = 'bb75b658000349b2bd6aa0e743c6ee6d'
+key = '<api-key>'
 url = 'https://newsapi.org/v2/everything?'
 
 keywords = ["Canada","University","Halifax", "'Dalhousie University'","'Canada Education'"]
